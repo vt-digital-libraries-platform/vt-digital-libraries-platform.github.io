@@ -4,8 +4,6 @@ classes: wide
 author_profile: true
 ---
 
-## Publications
-
 Chen, Yinlin, Soumik Ghosh, Tingting Jiang, and James Tuttle. "Scaling IIIF Image Tiling in the Cloud." *Code4Lib Journal,* issue 47, Feb., 2020, [journal.code4lib.org/articles/14933](https://journal.code4lib.org/articles/14933).
 
 Chen, Yinlin, and James Tuttle. "Virginia Tech Libraries’ Next Gen Digital Libraries Platform." IT Council Symposium 2020, 8 January, 2020, Blacksburg, VA, [hdl.handle.net/10919/96332](http://hdl.handle.net/10919/96332). Conference Presentation.
