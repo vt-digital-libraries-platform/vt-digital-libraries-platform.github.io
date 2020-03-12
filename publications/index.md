@@ -3,6 +3,7 @@ layout: single
 classes: wide
 author_profile: true
 ---
+## Publications
 
 Chen, Yinlin, Soumik Ghosh, Tingting Jiang, and James Tuttle. "Scaling IIIF Image Tiling in the Cloud." *Code4Lib Journal,* issue 47, Feb., 2020, [journal.code4lib.org/articles/14933](https://journal.code4lib.org/articles/14933).
 
