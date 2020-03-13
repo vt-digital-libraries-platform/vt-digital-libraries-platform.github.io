@@ -3,6 +3,7 @@ layout: single
 classes: wide
 author_profile: true
 ---
+## Projects
 
 ![VTDLP overview](/assets/images/VTDLP_overview.png "VTDLP overview")
 
