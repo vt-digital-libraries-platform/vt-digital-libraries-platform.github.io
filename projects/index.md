@@ -10,7 +10,7 @@ author_profile: true
 
 |         | Count           | 
 | ------------- |:-------------:|
-| Lambda functions  | 3 |
+| Lambda functions  | 4 |
 | Microservices  |    2   |
 | Python package |  1   |
 | Batch program  |  2  |
@@ -21,6 +21,7 @@ author_profile: true
 	* [S3toDDB](https://github.com/vt-digital-libraries-platform/S3toDDB)
 	* [DynamoDB Stream processing](https://github.com/vt-digital-libraries-platform/ddbstreamprocessing)
     * [DLP Lambda layers](https://github.com/vt-digital-libraries-platform/lambda_layers)
+	* [DDBtoDDB](https://github.com/vt-digital-libraries-platform/DDBtoDDB)
 * Microservices
 	* [DLP Resolution Service](https://github.com/vt-digital-libraries-platform/resolution-service)
 	* [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator)
