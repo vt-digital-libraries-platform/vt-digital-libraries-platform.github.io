@@ -14,7 +14,7 @@ Chen, Yinlin, Lee Hunter, and Zhiwu Xie. "Toward Cloud-Native Digital Repositori
 
 ## Oral Presentations:
 
-Chen, Yinlin. Scaling IIIF Image Tiling in the Cloud. IIIF Bi-Weekly Community Call - technical, April 22, 2020
+Chen, Yinlin. "Scaling IIIF Image Tiling in the Cloud." IIIF Bi-Weekly Community Call - technical, April 22, 2020
 
 Chen, Yinlin, and James Tuttle. "Virginia Tech Libraries’ Next Gen Digital Libraries Platform." IT Council Symposium 2020, 8 January, 2020, Blacksburg, VA, [hdl.handle.net/10919/96332](http://hdl.handle.net/10919/96332). Conference Presentation.
 
