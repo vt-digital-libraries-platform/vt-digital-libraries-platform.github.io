@@ -13,7 +13,8 @@ author_profile: true
 * Derivative service
   * IIIF tile & manifest: [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator)
 * Resolution service: [Resolution Service](https://github.com/vt-digital-libraries-platform/resolution-service)
-
+* Ingestion services:
+  * Ingest IAWA/SWVA metadata csv file to DLP: [S3toDDB](https://github.com/vt-digital-libraries-platform/S3toDDB)
 
 |         | Count           | 
 | ------------- |:-------------:|
