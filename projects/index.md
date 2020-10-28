@@ -18,7 +18,7 @@ author_profile: true
 
 |         | Count           | 
 | ------------- |:-------------:|
-| Lambda functions  | 5 |
+| Lambda functions  | 4 |
 | Microservices  |    3   |
 | Python package |  1   |
 | Batch program  |  2  |
@@ -27,7 +27,6 @@ author_profile: true
 * Lambda functions
 	* [S3toDDB](https://github.com/vt-digital-libraries-platform/S3toDDB)
 	* [dlp-access-lambdas](https://github.com/vt-digital-libraries-platform/dlp-access-lambdas)
-	* [DynamoDB Stream processing](https://github.com/vt-digital-libraries-platform/ddbstreamprocessing)
     * [DLP Lambda layers](https://github.com/vt-digital-libraries-platform/lambda_layers)
 	* [DDBtoDDB](https://github.com/vt-digital-libraries-platform/DDBtoDDB)
 * Microservices
