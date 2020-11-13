@@ -14,6 +14,7 @@ author_profile: true
   * IIIF tile & manifest: [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator)
 * Resolution service: [DLP Resolution Service](https://github.com/vt-digital-libraries-platform/resolution-service)
 * ID Minting service: [DLP ID Minting Service](https://github.com/vt-digital-libraries-platform/mint)
+* Fixity services: [DLP Fixity Service](https://github.com/vt-digital-libraries-platform/FixityService)
 * Ingestion services: [DLP metadata ingestion](https://github.com/vt-digital-libraries-platform/S3toDDB)
 
 |         | Count           | 
@@ -33,6 +34,7 @@ author_profile: true
 	* [DLP Resolution Service](https://github.com/vt-digital-libraries-platform/resolution-service)
 	* [ID Minting Service](https://github.com/vt-digital-libraries-platform/mint)
 	* [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator)
+	* [Fixity Service](https://github.com/vt-digital-libraries-platform/FixityService)
 * Python package
 	* [NOID-mint](https://github.com/vt-digital-libraries-platform/NOID-mint)
 * Batch program
