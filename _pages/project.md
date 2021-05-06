@@ -1,9 +1,22 @@
 ---
 layout: single
 classes: wide
-author_profile: true
+permalink: /project/
+title: "Project"
+sidebar:
+  - title: "Resources"
+  - text: "[**Demo**](https://vtdlp-demo.cloud.lib.vt.edu/)<br>
+  [**Docs**](https://github.com/VTUL/dlp-access/wiki)<br>
+  [**Code**](https://github.com/VTUL/dlp-access)<br>
+  [**Contribute**](https://github.com/VTUL/dlp-access/blob/dev/CONTRIBUTING.md)<br>"
+  - title: "Contact"
+  - text: "Digital Library Development <br>
+            Virginia Tech University Libraries  <br>
+            560 Drillfield Drive <br> 
+            Blacksburg, VA 24061 <br>  
+            [**digital-libraries@vt.edu**](mailto:digital-libraries@vt.edu)"
 ---
-## Project overview
+## Overview
 
 ![VTDLP overview](/assets/images/VTDLP_overview.png "VTDLP overview")
 

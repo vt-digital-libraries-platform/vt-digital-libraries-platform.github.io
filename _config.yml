@@ -10,23 +10,23 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# theme                  : "minimal-mistakes-jekyll"
+remote_theme             : "mmistakes/minimal-mistakes@4.22.0"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Virginia Tech Digital Libraries Platform"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "VTDLP"
-description              : "VTDLP is a cloud-native, digital libraries solution supporting preservation and acces taking advantage of the efficiencies of Amazon Web Services. It is a collectio of CloudFormation templates, code implementing microservices to support digital library functions, and web applications supporting providing user access."
+description              : "VTDLP is a cloud-native, digital libraries solution supporting preservation and access taking advantage of the efficiencies of Amazon Web Services. It is a collection of CloudFormation templates, code implementing microservices to support digital library functions, and web applications supporting providing user access."
 url                      : "https://vt-digital-libraries-platform.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "vt-digital-libraries-platform/vt-digital-libraries-platform.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/Library_Logo_color.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -65,7 +65,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : false # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -99,17 +99,17 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "UA-4094809-23"
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author
 author:
-  name             : VTDLP
+  name             : #VTDLP
   avatar           : #"/assets/images/Library_Logo_color.png"
-  bio              : "Next generation of Digital Library access platform."
+  bio              : #"Next generation of Digital Library access platform."
   location         : 
   email            :
   links:
@@ -232,6 +232,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -291,4 +292,5 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      related: # true
+

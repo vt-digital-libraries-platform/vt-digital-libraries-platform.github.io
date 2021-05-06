@@ -1,7 +1,15 @@
 ---
 layout: single
 classes: wide
-author_profile: true
+permalink: /team/
+title: "Team"
+sidebar:
+  - title: "Contact"
+  - text: "Digital Library Development <br>
+            Virginia Tech University Libraries  <br>
+            560 Drillfield Drive <br> 
+            Blacksburg, VA 24061 <br>  
+            [**digital-libraries@vt.edu**](mailto:digital-libraries@vt.edu)"
 ---
 ## Team
 

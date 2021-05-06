@@ -1,9 +1,18 @@
 ---
 layout: single
 classes: wide
-author_profile: true
+permalink: /publications/
+title: "Publications"
+sidebar:
+  - title: "Contact"
+  - text: "Digital Library Development <br>
+            Virginia Tech University Libraries  <br>
+            560 Drillfield Drive <br> 
+            Blacksburg, VA 24061 <br>  
+            [**digital-libraries@vt.edu**](mailto:digital-libraries@vt.edu)"
 ---
 ## Publications
+
 Yinlin Chen, James Tuttle, Alex Kinnaman. "A Cloud-based Serverless Microservices Application for Digital Preservation." Will present at Digital Preservation 2020, Virtual, Nov 9-13, 2020
 
 James Tuttle, Yinlin Chen, Tingting Jiang, Lee Hunter, Andrea Waldren, Soumik Ghosh and William Ingram. "Multi-tenancy Cloud Access and Preservation: Virginia Tech Digital Libraries Platform" Practitioners Track, to be presented at JCDL 2020, Virtual, August 1-5, 2020
