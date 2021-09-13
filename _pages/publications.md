@@ -12,6 +12,11 @@ sidebar:
             [**digital-libraries@vt.edu**](mailto:digital-libraries@vt.edu)"
 ---
 ## Publications
+Yinlin Chen, Tingting Jiang, Lee Hunter. "Building Scalable Serverless Digital Repositories using Amplify Open-source Framework." Presentaion at Open Repositories 2021, Virtual, June 7-10, 2021
+
+Yinlin Chen. A serverless journey: How we develop reliable, resilient and scalable Library services. Presentation at Code4Lib 2021: Online, USA. March 22-26, 2021
+
+Yinlin Chen and Bill Ingram. Why and How We Went Serverless, and How You Can Too. Presentation at CNI Spring 2021 meeting: Online, USA. March 15-26, 2021
 
 Yinlin Chen, James Tuttle, Alex Kinnaman. "A Cloud-based Serverless Microservices Application for Digital Preservation." Will present at Digital Preservation 2020, Virtual, Nov 9-13, 2020
 
