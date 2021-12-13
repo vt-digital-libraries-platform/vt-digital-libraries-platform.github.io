@@ -33,6 +33,8 @@ sidebar:
 | File Deposit Service  |  GUI tools for ingesting and validating new and changed files for access and/or preservation | |
 | Metadata Deposit Service | GUI tools for ingesting and validating new and changed metadata for access and/or preservation | |
 
+![VTDLP dependencies](/assets/images/VTDLP_dependency.png "VTDLP dependencies")
+
 ### VTDLP miscellaneous libraries, tools, etc
 * [AWS Batch Task JSON Generator](https://github.com/VTUL/iiif_s3_tools/tree/master/Batch_task_json_generator)
 * [DLP Lambda layers](https://github.com/vt-digital-libraries-platform/lambda_layers)
