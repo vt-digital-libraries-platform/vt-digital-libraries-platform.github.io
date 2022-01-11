@@ -20,7 +20,7 @@ title                    : "Virginia Tech Digital Libraries Platform"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "VTDLP"
-description              : "VTDLP is a cloud-native, digital libraries solution supporting preservation and access taking advantage of the efficiencies of Amazon Web Services. It is a collection of CloudFormation templates, code implementing microservices to support digital library functions, and web applications supporting providing user access."
+description              : "Virginia Tech Digital Library Platform (VTDLP) is a cloud-native, serverless, and microservice digital libraries management system built on top of Amazon Web Services (AWS). This digital libraries solution supports the preservation, management, and user access of digital assets at the Virginia Tech University Libraries."
 url                      : "https://vt-digital-libraries-platform.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "vt-digital-libraries-platform/vt-digital-libraries-platform.github.io"

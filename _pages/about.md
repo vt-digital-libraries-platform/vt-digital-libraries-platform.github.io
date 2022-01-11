@@ -12,4 +12,4 @@ sidebar:
             [**digital-libraries@vt.edu**](mailto:digital-libraries@vt.edu)"
 ---
 
-<p>VTDLP is a cloud-native, digital libraries solution supporting preservation and access while taking advantage of the efficiencies of Amazon Web Services. It is a collection of CloudFormation templates, code implementing microservices to support digital library functions, and web applications providing user access.</p>
+<p>Virginia Tech Digital Library Platform (VTDLP) is a cloud-native, serverless, and microservice digital libraries management system built on top of Amazon Web Services (AWS). This digital libraries solution supports the preservation, management, and user access of digital assets at the Virginia Tech University Libraries.</p>
