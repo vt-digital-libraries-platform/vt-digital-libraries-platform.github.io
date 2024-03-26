@@ -23,3 +23,5 @@ sidebar:
 
 **Lee Hunter** (<whunter@vt.edu>) has been a Software Engineer with the University Libraries at Virginia Tech since 2016. He received a B.A. in Political Science and Communication Studies from Virginia Tech in 1998 and a B.S. in Computer Science with a Minor in Mathematics in 2011. Lee was previously a Software Engineer for Modea and Ozmo, both in Blacksburg VA.
 
+**Yangkai Lin** (flynnkai@vt.edu)  is a Software Engineer in the University Libraries at Virginia Tech. He received his Masters in Computer Engineering from New York University in 2023 and his Bachelors in Computer Science from Virginia Tech in 2021. He is interested in crafting seamless and visually appealing user experiences in the digital realm.
+
