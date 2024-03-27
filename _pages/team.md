@@ -13,6 +13,8 @@ sidebar:
 ---
 ## Team
 
+**Bipasha Banerjee** (<bipashabanerjee@vt.edu>) has been a Graduate Research Assistant with the University Libraries at Virginia Tech since August 2019. She is currently a Ph.D. Candidate in the department of computer science, Virginia Tech. She received her M.S. in Computer Science and Applications from Virginia Tech in 2022 and a Bachelors in Computer Science and Engineering from West Bengal University of Technology in 2015. Bipasha’s research interests include digital libraries, natural language processing, information retrieval, machine learning, and working with scholarly documents. Prior to graduate school, Bipasha was working with Tata Consultancy Services in Kolkata, India, as a developer working on Android and .Net applications.
+
 **Yinlin Chen** (<ylchen@vt.edu>) is a Digital Library Architect with the University Libraries at Virginia Tech, Blacksburg, VA. He holds a Ph.D. in Computer Science and Applications from Virginia Tech and a M.S. and B.S. in Computer Science at National Tsing Hua University, Taiwan. His professional interests include digital libraries, cloud computing, microservices and serverless architecture.
 
 **Astha Dhakal**  (<asthad@vt.edu>) has been a Graduate Assistant for the University Libraries at Virginia Tech since August 2023. She earned a Bachelor of Science in Management Information System from University of Nebraska at Omaha in 2020 and is currently pursuing master’s in engineering: Computer Science at Virginia Tech. She specializes in Quality Assurance and Business Analysis. 
